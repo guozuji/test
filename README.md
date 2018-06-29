@@ -8,3 +8,5 @@ this is test02.
 出现分支了。。。
 
 git commit --amend 修改最新的一条commit
+
+git reset --HARD^ 放弃前一个commit
